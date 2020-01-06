@@ -84,3 +84,12 @@ i.fa-trash:hover{
     cursor: pointer;
      color:rgb(216, 17, 17);
 }
+i.fa-redo-alt{
+    font-size: 25px;
+    position: absolute;
+    margin-left: 80px;
+    margin-top:10px;
+}
+i.fa-redo-alt:hover{
+    cursor: pointer;
+}
